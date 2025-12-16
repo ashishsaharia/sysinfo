@@ -39,7 +39,7 @@ To install sysinfo as a global system command (/usr/local/bin/sysinfo), follow t
 
 
 Build and Install:
-    cmake -S . -B build -DSYSINFO_INSTALL=ON
+    cmake -S . -B build -DSYSINFO_INSTALL=ON 
     cmake --build build
     sudo cmake --install build
 
