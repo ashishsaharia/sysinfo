@@ -1,0 +1,7 @@
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/sysinfo.dir
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/edit_cache.dir
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/rebuild_cache.dir
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/list_install_components.dir
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/install.dir
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/install/local.dir
+/home/snobody/ashish/projects/sysinfo/build/CMakeFiles/install/strip.dir
