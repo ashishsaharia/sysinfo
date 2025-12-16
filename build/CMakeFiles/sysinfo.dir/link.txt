@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/sysinfo.dir/link.d CMakeFiles/sysinfo.dir/src/main.cxx.o -o sysinfo
