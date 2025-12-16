@@ -18,22 +18,20 @@ SysInfo is a lightweight, fastfetch-style system information tool written in C++
 cmake -S . -B build
 cmake --build build
 
-Run without installing:
+# Run without installing:
 
 ./build/sysinfo
 
 Install as a Local Command (Optional)
 
-To install sysinfo as a system command (/usr/local/bin/sysinfo):
+# To install sysinfo as a system command (/usr/local/bin/sysinfo):
 
 cmake -S . -B build -DSYSINFO_INSTALL=ON
 cmake --build build
 sudo cmake --install build
 
-After installation:
 
-sysinfo
 
-Uninstall
+## Uninstall
 
 sudo rm /usr/local/bin/sysinfo
